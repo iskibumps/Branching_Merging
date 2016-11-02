@@ -1,4 +1,16 @@
 img {
-    display: block;;
+    display: inline-block;
     margin: 5px;
+}
+
+div {
+    border: 2px solid black;
+    background: grey;
+    width: 625px;
+    
+
+}
+
+h1 {
+    text-align: center;
 }
